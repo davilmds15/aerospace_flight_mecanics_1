@@ -107,4 +107,4 @@ print("i = ", i, "[rad] inclination")
 
 
 rp = a*(1-e)
-print("h_p = ", rp-Re, "[km] perigee altitude")
+print("r_p = ", rp-Re, "[km] perigee altitude")
